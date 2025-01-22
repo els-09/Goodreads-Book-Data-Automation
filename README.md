@@ -51,7 +51,8 @@ For users looking to analyze their Goodreads data and want to save time on manua
 
 Example table:
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/aa0073b6-4ce7-4a94-8e0d-74899e9d1eca)
+
 
 ## Testing
 
